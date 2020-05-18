@@ -1,0 +1,7 @@
+https://www.finlab.tw/%E8%B6%85%E7%B0%A1%E5%96%AE-Machine-Learning-%E9%A0%90%E6%B8%AC%E8%82%A1%E5%83%B9/
+https://colab.research.google.com/
+
+https://ifttt.com/my_applets
+key is in 
+https://ifttt.com/maker_webhooks
+top-right corner: documentation
